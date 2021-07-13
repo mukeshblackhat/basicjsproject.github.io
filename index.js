@@ -7,16 +7,16 @@ var buybtn=document.getElementById('buybtn');
 
 
 bluebtn.addEventListener('click', function(){
-   img.src="/images/blue.png";
+   img.src="./images/blue.png";
 });
 blackbtn.addEventListener('click', function(){
-   img.src="/images/black.png";
+   img.src="./images/black.png";
 });
 brownbtn.addEventListener('click', function(){
-   img.src="/images/brown.png";
+   img.src="./images/brown.png";
 });
 redbtn.addEventListener('click', function(){
-   img.src="/images/red.png";
+   img.src="./images/red.png";
 });
 
 
