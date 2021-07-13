@@ -7,7 +7,7 @@ var buybtn=document.getElementById('buybtn');
 
 
 bluebtn.addEventListener('click', function(){
-   img.src='/images/blue.png';
+   img.src='../images/blue.png';
 });
 blackbtn.addEventListener('click', function(){
    img.src='/images/black.png';
